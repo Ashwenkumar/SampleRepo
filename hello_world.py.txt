@@ -1,3 +1,0 @@
-# First python program
-
-print "Welcome to this world"
